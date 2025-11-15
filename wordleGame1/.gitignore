@@ -1,8 +1,10 @@
-.vscode/
-*.exe
-*.obj
-*.o
-*.out
-*.log
-*.pdb
 .vs/
+*.suo
+*.user
+*.opendb
+*.VC.db*
+Debug/
+Release/
+*.obj
+*.pdb
+*.exe

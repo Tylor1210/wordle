@@ -39,7 +39,7 @@ class WordleGame {
 		void playGame();
 		void displayGrid() const;
 		void viewPerformanceReport() const;
-		void validateWord(const string& word) const;
+		bool validateWord(const string& word) const;
 
 
 };

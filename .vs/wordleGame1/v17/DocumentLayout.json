@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8CC5A3-11C1-4AC5-9046-A16F6C0A5F52}|wordleGame1\\wordleGame1.vcxproj|C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\WordleGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A8CC5A3-11C1-4AC5-9046-A16F6C0A5F52}|wordleGame1\\wordleGame1.vcxproj|solutionrelative:wordleGame1\\WordleGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8CC5A3-11C1-4AC5-9046-A16F6C0A5F52}|wordleGame1\\wordleGame1.vcxproj|C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\WordleRPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A8CC5A3-11C1-4AC5-9046-A16F6C0A5F52}|wordleGame1\\wordleGame1.vcxproj|solutionrelative:wordleGame1\\WordleRPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8CC5A3-11C1-4AC5-9046-A16F6C0A5F52}|wordleGame1\\wordleGame1.vcxproj|C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\WordleGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A8CC5A3-11C1-4AC5-9046-A16F6C0A5F52}|wordleGame1\\wordleGame1.vcxproj|solutionrelative:wordleGame1\\WordleGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8CC5A3-11C1-4AC5-9046-A16F6C0A5F52}|wordleGame1\\wordleGame1.vcxproj|C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7A8CC5A3-11C1-4AC5-9046-A16F6C0A5F52}|wordleGame1\\wordleGame1.vcxproj|solutionrelative:wordleGame1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordleGame.h",
+              "DocumentMoniker": "C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\WordleGame.h",
+              "RelativeDocumentMoniker": "wordleGame1\\WordleGame.h",
+              "ToolTip": "C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\WordleGame.h",
+              "RelativeToolTip": "wordleGame1\\WordleGame.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T16:14:45.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordleGame.cpp",
+              "DocumentMoniker": "C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\WordleGame.cpp",
+              "RelativeDocumentMoniker": "wordleGame1\\WordleGame.cpp",
+              "ToolTip": "C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\WordleGame.cpp",
+              "RelativeToolTip": "wordleGame1\\WordleGame.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-14T06:14:10.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\.gitignore",
+              "RelativeDocumentMoniker": "wordleGame1\\.gitignore",
+              "ToolTip": "C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\.gitignore",
+              "RelativeToolTip": "wordleGame1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-11-14T06:08:45.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordleRPG.cpp",
+              "DocumentMoniker": "C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\WordleRPG.cpp",
+              "RelativeDocumentMoniker": "wordleGame1\\WordleRPG.cpp",
+              "ToolTip": "C:\\Users\\tclon\\Desktop\\developer\\cppIntermediate\\wordleGame1\\wordleGame1\\WordleRPG.cpp",
+              "RelativeToolTip": "wordleGame1\\WordleRPG.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-14T06:06:52.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
